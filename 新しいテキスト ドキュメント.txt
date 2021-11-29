@@ -1,0 +1,70 @@
+C:\ProgramData\Miniconda3 //miniconda
+C:\ProgramData\Anaconda3 //anaconda
+
+tensorflow 2.7.0 //2.6.0
+conda 4.10.3 //4.10.3
+python 3.9.7 //3.8.8
+
+
+Iteration 100: loss=6528.28
+paris_generated_at_iteration_100.png
+Iteration 200: loss=5743.40
+paris_generated_at_iteration_200.png
+Iteration 300: loss=5008.04
+paris_generated_at_iteration_300.png
+Iteration 400: loss=4740.84
+paris_generated_at_iteration_400.png
+Iteration 500: loss=4549.28
+paris_generated_at_iteration_500.png
+Iteration 600: loss=4424.21
+paris_generated_at_iteration_600.png
+Iteration 700: loss=4342.12
+paris_generated_at_iteration_700.png
+Iteration 800: loss=4252.50
+paris_generated_at_iteration_800.png
+Iteration 900: loss=4183.59
+paris_generated_at_iteration_900.png
+Iteration 1000: loss=4130.46
+paris_generated_at_iteration_1000.png
+Iteration 1100: loss=4086.27
+paris_generated_at_iteration_1100.png
+Iteration 1200: loss=4048.73
+paris_generated_at_iteration_1200.png
+Iteration 1300: loss=4016.32
+paris_generated_at_iteration_1300.png
+Iteration 1400: loss=3988.01
+paris_generated_at_iteration_1400.png
+Iteration 1500: loss=3963.16
+paris_generated_at_iteration_1500.png
+Iteration 1600: loss=3941.24
+paris_generated_at_iteration_1600.png
+Iteration 1700: loss=3921.75
+paris_generated_at_iteration_1700.png
+Iteration 1800: loss=3904.29
+paris_generated_at_iteration_1800.png
+Iteration 1900: loss=3888.59
+paris_generated_at_iteration_1900.png
+Iteration 2000: loss=3874.39
+paris_generated_at_iteration_2000.png
+Iteration 2100: loss=3861.56
+paris_generated_at_iteration_2100.png
+Iteration 2200: loss=3849.84
+paris_generated_at_iteration_2200.png
+Iteration 2300: loss=3839.12
+paris_generated_at_iteration_2300.png
+Iteration 2400: loss=3829.26
+paris_generated_at_iteration_2400.png
+Iteration 2500: loss=3820.17
+paris_generated_at_iteration_2500.png
+Iteration 2600: loss=3811.80
+paris_generated_at_iteration_2600.png
+Iteration 2700: loss=3804.09
+paris_generated_at_iteration_2700.png
+Iteration 2800: loss=3796.94
+paris_generated_at_iteration_2800.png
+Iteration 2900: loss=3790.26
+paris_generated_at_iteration_2900.png
+Iteration 3000: loss=3784.02
+paris_generated_at_iteration_3000.png
+Iteration 3100: loss=3778.21
+paris_generated_at_iteration_3100.png
